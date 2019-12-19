@@ -1,0 +1,52 @@
+{
+    "name": "Stipple",
+    "description": "Turn your Images into an experience including in-image native advertising\r  @StippleSupport for all support help.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1480-stipple.jpg",
+    "tags": [
+        "have api",
+        "marketplaces",
+        "photos"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/stipple\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Stipple",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1480-stipple.jpg",
+            "humanURL": "https:\/\/stipple.com\/api_docs",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/stipple.com\/api_docs"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/stippleblog.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/stipple"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/stipple"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/stipple"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/stipple"
+        }
+    ]
+}
